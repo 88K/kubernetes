@@ -1,4 +1,4 @@
-Deploy Kubernetes cluster on AWS using Kops.
+# Deploy Kubernetes Cluster on AWS using Kops.
 
 https://kubernetes.io/docs/getting-started-guides/kops/
 
