@@ -4,7 +4,7 @@ kops create secret --name cluster.k8s.example.com sshpublickey admin -i ~/.ssh/i
 
 kops update cluster cluster.k8s.example.com
 
-kops update cluster cluster.k8s.example.comt --yes
+kops update cluster cluster.k8s.example.com --yes
 
 kops validate cluster
 
